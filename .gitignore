@@ -1,0 +1,17 @@
+# MIDE-51 build output (not needed in repo)
+*.lst
+*.obj
+*.map
+*.bak
+*.tmp
+
+# Proteus backup files
+*.pdsbak
+*.ldb
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store
