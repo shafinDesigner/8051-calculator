@@ -57,7 +57,6 @@ Small labels = function in MODE layer. Press MODE first, then the key.
 8051-calculator/
 ├── src/
 │   ├── calculator.asm        # Full source (1485 lines)
-│   └── calculator_short.asm  # Optimised version (comments removed)
 ├── simulation/
 │   └── calculator.pdsprj     # Proteus 8 project file
 ├── hex/
