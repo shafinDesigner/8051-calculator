@@ -58,7 +58,7 @@ Small labels = function in MODE layer. Press MODE first, then the key.
 ├── src/
 │   ├── calculator.asm        # Full source (1485 lines)
 ├── simulation/
-│   └── calculator.pdsprj     # Proteus 8 project file
+│   └── calculator8051.pdsprj     # Proteus 8 project file
 ├── hex/
 │   └── calculator.hex        # Compiled Intel HEX output
 └── docs/
